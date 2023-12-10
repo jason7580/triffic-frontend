@@ -1,0 +1,7 @@
+[{"find":"@api","replacement":"/home/danielliu/Documents/triffic-vite/src/api"},
+{"find":"@assets","replacement":"/home/danielliu/Documents/triffic-vite/src/assets"},
+{"find":"@components","replacement":"/home/danielliu/Documents/triffic-vite/src/components"},
+{"find":"@logs","replacement":"/home/danielliu/Documents/triffic-vite/src/logs"},
+{"find":"@pages","replacement":"/home/danielliu/Documents/triffic-vite/src/pages"},
+{"find":"@utilities","replacement":"/home/danielliu/Documents/triffic-vite/src/utilities"},
+{"find":"@","replacement":"src"}]

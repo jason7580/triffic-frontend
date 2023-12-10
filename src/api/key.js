@@ -1,0 +1,1 @@
+export const gmapkey="AIzaSyB8n7oqwjOa6pKnswGR5aPPvLfFcHLi8EY"
